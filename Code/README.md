@@ -70,7 +70,7 @@
 ## Team Members
 - [Perumalla Dharan](https://github.com/PerumallaDharan)        
 - [Tarun Teja Kudeti]()       
-- [Subrahmanya Sastry N](https://github.com/PavanNVSS)   
+- [Pavan Sastry NVSS](https://github.com/PavanNVSS)   
 - [Vatala Phalgun](https://github.com/Vatala-Phalgun)          
 - [Grandhi Dinesh](https://github.com/dinesh-grandhi)
 
